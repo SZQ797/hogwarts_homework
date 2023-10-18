@@ -1,7 +1,14 @@
 ### 作业
 - 创建新目录。
+  - mkdir hogwarts
 - 切换到新目录下。
+  - cd hogwarts
 - 创建新文件，在新文件中添加内容。
+  - ![img_1.png](img_1.png)
 - 查看新文件中的内容。
+  - cat test.txt
 - 修改新文件权限为可读、可写、可执行。
+  - chmod 777 test.txt
 - 查看当前目录。
+  - ls -al
+  - ![img_2.png](img_2.png)
